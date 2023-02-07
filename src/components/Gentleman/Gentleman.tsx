@@ -1,5 +1,6 @@
 import { FC } from "react";
 import { Gentleman } from "../../gentleman.models";
+import "./Gentleman.css";
 
 interface CardProps {
   gentleman: Gentleman;
