@@ -2,7 +2,7 @@ import React from "react";
 import "./App.css";
 import Card from "./components/Gentleman/Gentleman";
 import gentlemanData from "./gentleman.data";
-import "./components/Gentleman/Gentleman.css";
+import "./";
 
 function App() {
   return (
